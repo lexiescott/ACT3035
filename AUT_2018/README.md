@@ -1,7 +1,4 @@
 
-<h1>Table of Contents<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Cours_1:-2018-09-05" data-toc-modified-id="Cours_1:-2018-09-05-1">Cours_1: 2018-09-05</a></span><ul class="toc-item"><li><span><a href="#Notes-du-cours" data-toc-modified-id="Notes-du-cours-1.1">Notes du cours</a></span></li><li><span><a href="#Exercices" data-toc-modified-id="Exercices-1.2">Exercices</a></span></li><li><span><a href="#Infos-générales" data-toc-modified-id="Infos-générales-1.3">Infos générales</a></span></li></ul></li></ul></div>
-
 # Cours_1: 2018-09-05 
 
 ## Notes du cours
