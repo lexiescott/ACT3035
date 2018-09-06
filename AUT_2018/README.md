@@ -1,5 +1,5 @@
 
-# Cours_1: 2018-09-05 
+# ACT3035_A2018 Cours_1
 
 ## Notes du cours
 * Voici la [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/1_1_cours.ipynb) et la [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/1_2_cours.ipynb) des notes du cours en format continu. 
@@ -10,5 +10,9 @@
 * À venir
 
 ## Infos générales
-* Voici la [présentation](http://nour.me/presentations/ACT3035_PCA2018.html#/) du plan du cours que nous avons vu ensemble ce matin. 
-* Vous pouvez effectuer ce petit [sondage](https://goo.gl/forms/kDoCDxdVHP07bX2o1) afin de situer le niveau moyen en programmation des étudiants.
+* Voici la [présentation](http://nour.me/presentations/ACT3035_PCA2018.html#/) du plan du cours que nous avons vu ensemble ce matin.
+* Voici des tutoriels pour installer R et RStudio sur votre ordinateur personnel;
+    * <a class="fragment" href="https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-windows-5f503f708027">Windows</a>
+    * <a class="fragment" href="https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4">Mac Os X</a><br>
+    * <a class="fragment" href="https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-ubuntu-12-04-14-04-16-04-b6b3107f7779">Ubuntu</a>
+* Vous pouvez effectuer ce petit [sondage](https://goo.gl/forms/kDoCDxdVHP07bX2o1) afin que j'aie une idée sur le niveau moyen en programmation des étudiants.
