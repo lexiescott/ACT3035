@@ -1,4 +1,15 @@
 
+# ACT3035_A2018 Cours_2
+
+## Notes du cours
+* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_2_cours.ipynb) des notes du cours en format continu. 
+* Si vous voulez avoir ces mêmes notes de cours en format _slides_, je peux le faire aussi, juste me le demander
+* Vous retrouvez également le [script_2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_5_script.R) (code brut) que j'ai tapé sur la console RStudio.
+
+## Exercices
+* À venir
+
+
 # ACT3035_A2018 Cours_1
 
 ## Notes du cours
@@ -19,14 +30,3 @@
     * <a class="fragment" href="https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-mac-e911606ce4f4">Mac Os X</a><br>
     * <a class="fragment" href="https://medium.com/@GalarnykMichael/install-r-and-rstudio-on-ubuntu-12-04-14-04-16-04-b6b3107f7779">Ubuntu</a>
 * Vous pouvez effectuer ce petit [sondage](https://goo.gl/forms/kDoCDxdVHP07bX2o1) afin que j'aie une idée sur le niveau moyen en programmation des étudiants.
-
-# ACT3035_A2018 Cours_2
-
-## Notes du cours
-* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_2_cours.ipynb) des notes du cours en format continu. 
-* Si vous voulez avoir ces mêmes notes de cours en format _slides_, je peux le faire aussi, juste me le demander
-* Vous retrouvez également le [script_2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_5_script.R) (code brut) que j'ai tapé sur la console RStudio.
-
-## Exercices
-* À venir
-
