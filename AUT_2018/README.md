@@ -7,7 +7,8 @@
 * Vous retrouvez également le [script_2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_5_script.R) (code brut) que j'ai tapé sur la console RStudio.
 
 ## Exercices
-* À venir
+* [Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/2_3_Exercices.ipynb)
+* [Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/2_4_Solutions.ipynb#Question)
 
 
 # ACT3035_A2018 Cours_1
