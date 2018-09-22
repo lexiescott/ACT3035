@@ -1,10 +1,22 @@
 
+# ACT3035_A2018 Cours_3
+
+## Notes du cours
+* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/3_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/3_2_cours.ipynb) des notes du cours en format continu. 
+* Si vous voulez avoir ces mêmes notes de cours en format _slides_, je peux le faire aussi, juste me le demander
+* Vous retrouvez également le [script_3](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/3_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
+
+## Exercices
+* [Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/3_3_Exercices.ipynb)
+* [Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/3_4_Solutions.ipynb#Question)
+
+
 # ACT3035_A2018 Cours_2
 
 ## Notes du cours
 * Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_2_cours.ipynb) des notes du cours en format continu. 
 * Si vous voulez avoir ces mêmes notes de cours en format _slides_, je peux le faire aussi, juste me le demander
-* Vous retrouvez également le [script_2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_5_script.R) (code brut) que j'ai tapé sur la console RStudio.
+* Vous retrouvez également le [script_2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
 
 ## Exercices
 * [Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/2_3_Exercices.ipynb)
