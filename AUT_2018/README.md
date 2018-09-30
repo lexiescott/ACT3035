@@ -1,4 +1,14 @@
 
+# ACT3035_A2018 Cours_4
+
+## Notes du cours
+* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/4_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/4_2_cours.ipynb) des notes du cours en format continu. 
+* Vous retrouvez également le [script_4](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/4_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
+
+## Exercices
+* [Questions et Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/4_3_Exercices_Solutions.ipynb)
+
+
 # ACT3035_A2018 Cours_3
 
 ## Notes du cours
