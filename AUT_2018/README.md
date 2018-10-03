@@ -1,4 +1,14 @@
 
+# ACT3035_A2018 Cours_5
+
+## Notes du cours
+* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/5_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/5_2_cours.ipynb) des notes du cours en format continu. 
+
+## Exercices
+* [Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_3_Exercices_Questions.ipynb)
+
+* [Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_3_Exercices_Solutions.ipynb)
+
 # ACT3035_A2018 Cours_4
 
 ## Notes du cours
