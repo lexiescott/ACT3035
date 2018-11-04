@@ -1,8 +1,34 @@
 
+# ACT3035_A2018 Cours_9
+
+## Notes du cours
+* Voici la [partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_1_cours.ipynb) et la [partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_2_cours.ipynb) des notes du cours en format continu. 
+
+## Exercices
+* [Partie_1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_1_Exercices.ipynb)
+
+* [Partie_2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_2_Exercices.ipynb)
+
+# ACT3035_A2018 Cours_8
+
+* Dans ce cours, nous avons fait un tutoriel présentant les moyens d'avoir accès à SAS via [Citrix](https://www.bureauvirtuel.uqam.ca/citrix/XenAppSitel/), [SAS oda](https://odamid.oda.sas.com/SASODAControlCenter) ou directement SAS 9.4 au local informatique.
+
+* Vous pouvez trouver le contenu de ce [tutoriel ici](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/8_0_cours.ipynb) afin d'utiliser SAS oda
+* Nous avons également introduit l'interface de SAS oda (création et téléchargement de fichiers, de répertoire ...etc)
+
+# ACT3035_A2018 Cours_7
+
+> Examen Intra (R)
+
+
+# ACT3035_A2018 Cours_6
+
+* Nous avons programmé une régression linéaire au complet, en plus de la fonction `predict` de cette dernière afin de faire une revision de la matière pour l'examen.
+
 # ACT3035_A2018 Cours_5
 
 ## Notes du cours
-* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/5_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/5_2_cours.ipynb) des notes du cours en format continu. 
+* Voici la [partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_1_cours.ipynb) (graphiques ggplot2) et la [partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_2_cours.ipynb) (La méthode de dichotomie et inégrale numérique) des notes du cours en format continu. 
 
 ## Exercices
 * [Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_3_Exercices_Questions.ipynb)
