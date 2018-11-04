@@ -5,7 +5,7 @@
 * Voici la [partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_1_cours.ipynb) et la [partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_2_cours.ipynb) des notes du cours en format continu. 
 
 ## Exercices
-* [Partie_1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_1_Exercices.ipynb)
+* [Partie_1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/9_1_Exercices.ipynb)
 
 * [Partie_2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_2_Exercices.ipynb)
 
