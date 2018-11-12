@@ -19,7 +19,7 @@
 
 * [Partie#3](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/10_3_cours.ipynb)
 
-* [libname démystifié et détaillé](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/10_5_libname_ detail.ipynb)
+* [libname démystifié et détaillé](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/10_5_libname_detail.ipynb)
 
 
 ## Exercices
