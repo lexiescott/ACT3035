@@ -3,7 +3,7 @@
 
 
 ## Notes du cours
-* [Partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_1_cours.ipynb) 
+* [Partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/13_1_cours.ipynb) 
 
 * [Partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_2_cours.ipynb)
 
