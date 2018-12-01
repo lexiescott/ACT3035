@@ -1,4 +1,21 @@
 
+# ACT3035_A2018 Cours_13
+
+
+## Notes du cours
+* [Partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_1_cours.ipynb) 
+
+* [Partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_2_cours.ipynb)
+
+* [Partie#3](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_3_cours_dooLoop.ipynb)
+
+
+## Exercices
+* [DooLoop](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_4_Exercices_loop.ipynb)
+
+# ACT3035_A2018 Cours_12
+**Grève**
+
 # ACT3035_A2018 Cours_11
 
 ## Notes du cours
@@ -9,6 +26,7 @@
 
 ## Exercices
 * [Partie_1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_3_Exercices.ipynb)
+* [Partie_2 exos supplémentaires](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_4_Exercices.ipynb)
 
 # ACT3035_A2018 Cours_10
 
