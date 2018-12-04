@@ -3,7 +3,7 @@
 
 
 ## Notes du cours
-* [Partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/13_1_cours.ipynb)
+* [Partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/13_1_cours.ipynb) 
 
 * [Partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_2_cours.ipynb)
 
@@ -12,11 +12,11 @@
 
 ## Exercices
 * [DooLoop Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_4_Exercices_loop.ipynb)
-
+* [DooLoop Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_4_Exercices_loop_sol.ipynb)
 
 
 * [Jointures de tables Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_5_Exercices_joint_tables.ipynb)
-
+* [Jointures de tables Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_5_Exercices_joint_tables_sol.ipynb)
 
 # ACT3035_A2018 Cours_12
 **Grève**
@@ -24,19 +24,20 @@
 # ACT3035_A2018 Cours_11
 
 ## Notes du cours
-* [Partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_1_cours.ipynb)
+* [Partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_1_cours.ipynb) 
 
 * [Partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_2_cours.ipynb)
 
 
 ## Exercices
-* [Partie_1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_3_Exercices.ipynb)
-* [Partie_2 exos supplémentaires](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_4_Exercices.ipynb)
+* [Partie_1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_3_Exercices.ipynb?flush_cache=true)
+* [Partie_2 exos supplémentaires](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/11_4_Exercices.ipynb?flush_cache=true)
+
 
 # ACT3035_A2018 Cours_10
 
 ## Notes du cours
-* [Partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/10_1_cours.ipynb)
+* [Partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/10_1_cours.ipynb) 
 
 * [Partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/10_2_cours.ipynb)
 
@@ -51,7 +52,7 @@
 # ACT3035_A2018 Cours_9
 
 ## Notes du cours
-* Voici la [partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_1_cours.ipynb) et la [partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_2_cours.ipynb) des notes du cours en format continu.
+* Voici la [partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_1_cours.ipynb) et la [partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/9_2_cours.ipynb) des notes du cours en format continu. 
 
 ## Exercices
 * [Partie_1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/9_1_Exercices.ipynb)
@@ -77,7 +78,7 @@
 # ACT3035_A2018 Cours_5
 
 ## Notes du cours
-* Voici la [partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_1_cours.ipynb) (graphiques ggplot2) et la [partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_2_cours.ipynb) (La méthode de dichotomie et inégrale numérique) des notes du cours en format continu.
+* Voici la [partie#1](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_1_cours.ipynb) (graphiques ggplot2) et la [partie#2](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_2_cours.ipynb) (La méthode de dichotomie et inégrale numérique) des notes du cours en format continu. 
 
 ## Exercices
 * [Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/5_3_Exercices_Questions.ipynb)
@@ -92,7 +93,7 @@
 # ACT3035_A2018 Cours_4
 
 ## Notes du cours
-* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/4_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/4_2_cours.ipynb) des notes du cours en format continu.
+* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/4_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/4_2_cours.ipynb) des notes du cours en format continu. 
 * Vous retrouvez également le [script_4](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/4_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
 
 ## Exercices
@@ -102,7 +103,7 @@
 # ACT3035_A2018 Cours_3
 
 ## Notes du cours
-* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/3_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/3_2_cours.ipynb) des notes du cours en format continu.
+* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/3_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/3_2_cours.ipynb) des notes du cours en format continu. 
 * Si vous voulez avoir ces mêmes notes de cours en format _slides_, je peux le faire aussi, juste me le demander
 * Vous retrouvez également le [script_3](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/3_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
 
@@ -114,7 +115,7 @@
 # ACT3035_A2018 Cours_2
 
 ## Notes du cours
-* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_2_cours.ipynb) des notes du cours en format continu.
+* Voici la [partie#1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_1_cours.ipynb) et la [partie#2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_2_cours.ipynb) des notes du cours en format continu. 
 * Si vous voulez avoir ces mêmes notes de cours en format _slides_, je peux le faire aussi, juste me le demander
 * Vous retrouvez également le [script_2](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/2_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
 
@@ -126,7 +127,7 @@
 # ACT3035_A2018 Cours_1
 
 ## Notes du cours
-* Voici la [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/1_1_cours.ipynb) et la [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/1_2_cours.ipynb) des notes du cours en format continu.
+* Voici la [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/1_1_cours.ipynb) et la [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/1_2_cours.ipynb) des notes du cours en format continu. 
 * Si vous voulez avoir ces mêmes notes de cours en format _slides_, voici la [slides#1](http://nour.me/presentations/1_1_cours.slides.html) et la [slides#2](http://nour.me/presentations/1_2_cours.slides.html)
 * Vous retrouvez également le [script_1](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/1_5_script.R) (code brut) que j'ai tapé sur la console RStudio.
 
