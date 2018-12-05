@@ -11,12 +11,15 @@
 
 
 ## Exercices
-* [DooLoop Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_4_Exercices_loop.ipynb)
-* [DooLoop Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_4_Exercices_loop_sol.ipynb)
+* [DooLoop Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_4_Exercices_loop.ipynb?flush_cache=true)
+* [DooLoop Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_4_Exercices_loop_sol.ipynb?flush_cache=true)
 
 
-* [Jointures de tables Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_5_Exercices_joint_tables.ipynb)
-* [Jointures de tables Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_5_Exercices_joint_tables_sol.ipynb)
+* [Jointures de tables Questions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_5_Exercices_joint_tables.ipynb?flush_cache=true)
+* [Jointures de tables Solutions](http://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/AUT_2018/13_5_Exercices_joint_tables_sol.ipynb?flush_cache=true)
+
+
+* [Script SAS lors de la démo](https://github.com/nmeraihi/ACT3035/blob/master/AUT_2018/13_6_demo_derniere.sas)
 
 # ACT3035_A2018 Cours_12
 **Grève**
