@@ -19,6 +19,6 @@
 ## Exercices
 * Comme vous l'avez vu lors du dernier cours, il y'a 50 étudiants inscrits au cours. Comme nous avons seulement 50 ordinateurs dans le laboratoire, je vous conseille d'amener votre ordinateur personnel afin de suivre tous les exemples que je donne au cours. Car après tout, il s'agit bien d'un "laboratoire" d'actuariat !
 * Votre premier exercice est de vous assurez d'avoir votre environnement de travail fonctionnel, vous n'êtes pas obligé d'avoir un ordinateur puissant, tour ordinateur contenant un processeur basique fera largement le travail.
-* Ensuite, [voici la première série](https://github.com/nmeraihi/ACT3035/blob/master/HIV_2019/cours_1/1_3_Exercices_vecteurs.ipynb?flush_cache=true) de quelques exercices très simple pour débuter!
-* Finalement, [voici également la solution](https://github.com/nmeraihi/ACT3035/blob/master/HIV_2019/cours_1/1_4_Exercices_vecteurs-solutions.ipynb?flush_cache=true), mais attention! il faut essayer de résoudre les numéros avant de voir la solution.
+* Ensuite, [voici la première série](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_1/1_3_Exercices_vecteurs.ipynb?flush_cache=true) de quelques exercices très simple pour débuter!
+* Finalement, [voici également la solution](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_1/1_4_Exercices_vecteurs-solutions.ipynb?flush_cache=true), mais attention! il faut essayer de résoudre les numéros avant de voir la solution.
 
