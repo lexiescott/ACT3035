@@ -1,127 +1,101 @@
-library(MASS)
-install.packages("MASS")
-library(MASS)
-require(MASS)
-library(mass)
-detach(package:MASS)
-?detach
-pi
-x=5
-x <- 77
-x
-y <- 3
-x+y
-print(x)
-x <- y <- z <- 9
-15 -> p
-assign("x",99)
-nume <- 25
-string <- "bonjour"
-booleen <- F
+# comment installer un package
+install.packages("ggplot2")
+# Comment charger un package
+library(ggplot2)
+require(ggplot2)
+
+x <- 4
+# x=4
+y <- 5
+# y=5
+
+z <- x+y
+
+assign("ex_variable", 30)
+ex_variable <- 25
+
+num <- 199.136
+string <- "Bonjou"
+bool <- TRUE
+bool2 <- T
+boolF <- F
+
 class(string)
-is.numeric(string)
-nume <- as.character(nume)
-as.numeric(string)
-as.numeric(booleen)
-nume <- 25
-nume<100
-nume>100
-is.numeric(nume)
-x==y
-x!=y
-string=="bonjour"
+class(boolF)
+class(num)
+
+# utilisation de l afonction juste pour
+# voir le resultat
+as.character(num)
+
+num/2
+# jecrase mon ancienne valeur
+num <- as.character(num)
+num/2
+# je remprends mon num en numerique
+num <- as.numeric(num)
+
+num<100
+
+num==199.136
+num!=199.136
+
 getwd()
-repertoire <- getwd()
-setwd("/Users/nour/test")
-setwd("C:/Users/ec291358/Desktop/A2018/test")
-setwd(repertoire)
+
+# setwd("C:\Users\ec291358\Desktop\ACT3035_H19")
+setwd("C:/Users/ec291358/Desktop/ACT3035_H19")
+?setwd
 ls()
-rm(y)
-variable <- ls()
-rm(variable)
-rm(list = ls())
-?paste
-help(paste)
-??remove
+rm(n)
+ls()
+rm(list=ls())
+?sqrt
 example(sqrt)
-?cars
-plot(cars)
-install.packages("MASS")
-library(MASS)
-data(Cars93)
-summary(Cars93)
 
-x <- 2
+x <- 3
 x**2
-round(pi,2)
-z <- -1
-abs(z)
+x^2
+
+round(pi,6)
+floor(pi)
+ceiling(pi)
 
 
+9^1/2
+9^(1/2)
 
-
-
-x <- 12
-y <- 10
-z<- -1 #ou  z <- -1
-
-sqrt(x)
-x^(1/2)
-
-x^1/2
 factorial(4)
+vec <- c(1,2,3,4,5)
+class(vec)
+vec25 <- 1:25
+vec25dec <- 19.33:33.33
 
-vecteur <- c(1,2,3,4,5)
-vecteur
-class(vecteur)
-
-vecteur2 <- 1:5
-vecteur2
-
-vecteur==vecteur2
-
-vecteur2 <- 10:17
-vecteur2
-
-
-
-vecteur4 <- 11.5:19
-vecteur4
-
+vecSeq <- seq(from=19.33,to=25.33, by=.33)
+vecSeq <- seq(19.33, 25.33, .33)
+vecSeq
 ?seq
-vecteur5 <- seq(from=11.5, to=19, by=.33)
-vecteur5[1]
-vecteur5[3]
-vecteur5[3:5]
-vecteur5[-1]
-1:3
-c(1,2,3)
-verif1 <- vecteur5[-c(1,2,3)]
-verif2 <- vecteur5[-(1:3)]
-verif3 <- verif1*3
-SuperVecteur <- c(verif1, verif3)
-SuperVecteur2 <- c(verif1, verif3, 15, 17, 99999)
-SuperVecteur2 <- c(verif1, verif3, 15, 17, 99999, "Bonjour")
-SuperVecteur2
-SuperVecteur/2
-SuperVecteur2/2
-length(SuperVecteur2)
-SuperVecteur2[length(SuperVecteur2)]
 
-vect_stri <-c("bonjour", "Hi", "你好", "Hola", "صباح الخير","Buongiorno")
+vecteur <- 1:8
+vecteur[6]
+vecteur[c(2,6)]
+
+vec2_6 <- c(2,6)
+vecteur[vec2_6]
 
 
-vecBool <- c(T,T,F,F,F,T)
+length(vec25dec)
+vect_string <- c("Bonjour", "hi")
+vect_bool <- c(T,F,F,T,T,T
+               ,F,F,F)
+length(vec25dec/13)
+length(vec25dec)==length(vec25dec/13)
 
 
-vecteur5 <-c(1:5)
-vecteur6 <-c(1:6)
-1 2 3 4 5
-1 2 3 4 5 6
+vec5 <- 1:5
+vec6 <- 1:6
+vec5+vec6
+
+seq(-30,-5, 1)
 
 
-vecteur5
-vecteur6
-add <- vecteur5+vecteur6
-add
 
