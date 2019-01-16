@@ -1,5 +1,5 @@
 
-# ACT3035_H2019 Cours_2
+# Cours_2
 ## Notes du cours
 * [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_2/2_1_cours.ipynb?flush_cache=true)
 * [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_2/2_2_cours.ipynb?flush_cache=true) des notes du cours en format continu. 
@@ -10,7 +10,7 @@
 * [Solutions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_2/2_4_Solutions.ipynb?flush_cache=true)
 
 
-# ACT3035_H2019 Cours_1
+# Cours_1
 
 ## Infos générales
 * Voici la [présentation](http://nour.me/presentations/) du plan du cours que nous avons vu ensemble ce matin.
