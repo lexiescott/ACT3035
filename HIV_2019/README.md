@@ -2,7 +2,6 @@
 # ACT3035_A2018 Cours_2
 ## Notes du cours
 * Voici la [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_2/2_1_cours.ipynb?flush_cache=true) et la [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_2/2_2_cours.ipynb?flush_cache=true) des notes du cours en format continu. 
-* Si vous voulez avoir ces mêmes notes de cours en format _slides_, je peux le faire aussi, juste me le demander
 * Vous retrouvez également le [script_2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_2/2_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
 
 ## Exercices
