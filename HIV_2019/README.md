@@ -1,3 +1,15 @@
+# Cours_3
+## Notes du cours
+* [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_3/3_1_cours.ipynb?flush_cache=true)
+* [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_3/3_2_cours.ipynb?flush_cache=true)
+* Vous retrouvez également le [script_3](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_3/3_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
+## Exercices
+* [Questions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_3/3_3_Exercices.ipynb?flush_cache=true)
+* [Solutions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_3/3_4_Solutions.ipynb?flush_cache=true)
+## Infos générales
+Vous pouvez consulter le site des données ouvertes du Québec [ici](https://www.donneesquebec.ca/fr/).
+
+
 
 # Cours_2
 ## Notes du cours
