@@ -7,7 +7,8 @@
 * [Questions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_3/3_3_Exercices.ipynb?flush_cache=true)
 * [Solutions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_3/3_4_Solutions.ipynb?flush_cache=true)
 ## Infos générales
-Vous pouvez consulter le site des données ouvertes du Québec [ici](https://www.donneesquebec.ca/fr/).
+* Vous pouvez consulter le site des données ouvertes du Québec [ici](https://www.donneesquebec.ca/fr/).
+* Le moteur de recherche que je vous ai parlé est: [duckduckgo.com/](https://duckduckgo.com/)
 
 
 
