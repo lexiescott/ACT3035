@@ -1,3 +1,15 @@
+# Cours_4
+## Notes du cours
+* [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/4_1_cours_dplyr.ipynb?flush_cache=true)
+* [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/4_2_cours_if_for.ipynb?flush_cache=true)
+* Vous retrouvez également le [script_4](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/4_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
+
+## Exercices
+* [Série_1_Questions_solution](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/4_3_Exercices_Solutions_for_loop.ipynb?flush_cache=true)
+* [Questions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/4_4_Exercices.ipynb?flush_cache=true)
+* [Solutions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/4_4_Solutions.ipynb?flush_cache=true)
+
+
 # Cours_3
 ## Notes du cours
 * [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_3/3_1_cours.ipynb?flush_cache=true)
