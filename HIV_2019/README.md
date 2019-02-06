@@ -1,3 +1,19 @@
+# Cours_5
+## Notes du cours
+* [partie#1 fonctions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_1_cours_fonctions.ipynb?flush_cache=true)
+* [partie#2 ggplot](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_2_cours_ggplot.ipynb?flush_cache=true)
+* Vous retrouvez également le [script_5](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/5_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
+
+## Exercices
+* [Questions fonctions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_3_Exercices_Questions_fonctions.ipynb?flush_cache=true)
+* [Solutions fonctions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_4_Exercices_Solutions_fonctions.ipynb?flush_cache=true)
+
+* [Questions ggplot](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_3_Exercices_Questions_ggplot.ipynb?flush_cache=true)
+* [Solutions ggplot](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_4_Exercices_Solutions_ggplot.ipynb?flush_cache=true)
+
+
+
+
 # Cours_4
 ## Notes du cours
 * [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/4_1_cours_dplyr.ipynb?flush_cache=true)
