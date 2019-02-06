@@ -2,7 +2,7 @@
 ## Notes du cours
 * [partie#1 fonctions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_1_cours_fonctions.ipynb?flush_cache=true)
 * [partie#2 ggplot](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_2_cours_ggplot.ipynb?flush_cache=true)
-* Vous retrouvez également le [script_5](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_4/5_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
+* Vous retrouvez également le [script_5](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_5_script.R) (code brut) que j'ai tapé sur la console RStudio au labo.
 
 ## Exercices
 * [Questions fonctions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_3_Exercices_Questions_fonctions.ipynb?flush_cache=true)
