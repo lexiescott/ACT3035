@@ -1,3 +1,23 @@
+# Cours_8
+* Dans ce cours, nous avons fait un tutoriel présentant les moyens d'avoir accès à SAS via [Citrix](https://www.bureauvirtuel.uqam.ca/citrix/XenAppSitel/), [SAS oda](https://odamid.oda.sas.com/SASODAControlCenter) ou directement SAS 9.4 au local informatique.
+
+* Vous pouvez trouver le contenu de ce [tutoriel ici](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_8/8_0_cours_SAS_university.ipynb?flush_cache=true) afin d'utiliser SAS oda
+* Nous avons également introduit l'interface de SAS oda (création et téléchargement de fichiers, de répertoire ...etc)
+
+## Notes du cours
+* Nous avons débuté [partie#1 lecture_des_donnés](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_8/8_1_cours.ipynb?flush_cache=true)
+
+## Exercices
+* vous pouvez essayer les numéros #1 et #2 des de la [première](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_8/8_1_Exercices.ipynb?flush_cache=true) séries d'exercices suivante.
+
+
+# Cours_7
+Examen intra
+
+# Cours_6
+Cette revision pré-exam intra a été faite en ligne via zoom. Le contenu se trouve [ici](https://github.com/nmeraihi/ACT3035/tree/master/HIV_2019/cours_6)
+
+
 # Cours_5
 ## Notes du cours
 * [partie#1 fonctions](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_5/5_1_cours_fonctions.ipynb?flush_cache=true)
