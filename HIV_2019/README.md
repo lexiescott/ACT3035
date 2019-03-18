@@ -1,3 +1,23 @@
+# Cours_9
+## Notes du cours
+* Nous avons poursuivi la matière du [cours 8 (suite)](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_0_1_cours_suite_8.ipynb?flush_cache=true)
+
+* [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_1_cours.ipynb?flush_cache=true)
+
+* [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_2_cours.ipynb?flush_cache=true)
+
+
+* Nous verrons qu'avec `proc sql` il sera beaucoup plus facile de faire de telles opérations [partie#3](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_3_cours.ipynb?flush_cache=true)
+
+
+## Exercices
+* [Suite du 8](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_8/9_0_1_Exercices_du_8.ipynb?flush_cache=true)
+
+* [9_3_Exercices](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_3_Exercices.ipynb?flush_cache=true)
+
+* [9_4_Exercices](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_4_Exercices.ipynb?flush_cache=true)
+
+
 # Cours_8
 * Dans ce cours, nous avons fait un tutoriel présentant les moyens d'avoir accès à SAS via [Citrix](https://www.bureauvirtuel.uqam.ca/citrix/XenAppSitel/), [SAS oda](https://odamid.oda.sas.com/SASODAControlCenter) ou directement SAS 9.4 au local informatique.
 
