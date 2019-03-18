@@ -2,12 +2,12 @@
 ## Notes du cours
 * Nous avons poursuivi la matière du [cours 8 (suite)](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_0_1_cours_suite_8.ipynb?flush_cache=true)
 
-* [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_1_cours.ipynb?flush_cache=true)
+* [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_1_cours.ipynb?flush_cache=true)
 
 * [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_2_cours.ipynb?flush_cache=true)
 
 
-* Nous verrons qu'avec `proc sql` il sera beaucoup plus facile de faire de telles opérations [partie#3](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_3_cours.ipynb?flush_cache=true)
+* [partie#3](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_3_cours.ipynb?flush_cache=true)Nous verrons qu'avec `proc sql` il sera beaucoup plus facile de faire de telles opérations 
 
 
 ## Exercices
