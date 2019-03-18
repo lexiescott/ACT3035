@@ -7,7 +7,7 @@
 * [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_2_cours.ipynb?flush_cache=true)
 
 
-* [partie#3](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_3_cours.ipynb?flush_cache=true)Nous verrons qu'avec `proc sql` il sera beaucoup plus facile de faire de telles opérations 
+* [partie#3](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_3_cours.ipynb?flush_cache=true) Nous verrons qu'avec `proc sql` il sera beaucoup plus facile de faire de telles opérations 
 
 
 ## Exercices
