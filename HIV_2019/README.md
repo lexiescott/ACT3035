@@ -11,7 +11,7 @@
 
 
 ## Exercices
-* [Suite du 8](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_8/9_0_1_Exercices_du_8.ipynb?flush_cache=true)
+* [Suite du 8](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_0_1_Exercices_du_8.ipynb?flush_cache=true)
 
 * [9_3_Exercices](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_3_Exercices.ipynb?flush_cache=true)
 
