@@ -1,3 +1,30 @@
+# Cours_10
+## Notes du cours
+
+* [10_0_libname](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_10/10_0_libname_detail.ipynb?flush_cache=true) Ceci est une explication détaillée du `libname` que nous avions utilisé dans le cours de l'automne 2018 avec SAS University. Vous pouvez le lire si vous voulez, mais nous avons passé pas mal de temps aujourd'hui sur quand même sur cette procédure avec SAS Citrix ainsi que SAS 9.4 au labo.
+
+* [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_10/10_1_cours.ipynb?flush_cache=true)
+
+
+* [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_10/10_2_cours.ipynb?flush_cache=true)
+
+* [script_labo](https://github.com/nmeraihi/ACT3035/tree/master/HIV_2019/cours_10/10_6_script.sas) 
+
+
+## Exercices
+
+**NB**: Il est fortement conseiller d'utiliser la procédure `PROC SQL` pour résoudre les problèmes ci-dessous.
+
+* [10_3_Exercices](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_10/10_3_Exercices.ipynb?flush_cache=true)
+
+* [10_4_Exercices](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_10/10_4_Exercices.ipynb?flush_cache=true)
+
+* [10_5_Exercices_joint_tables](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_10/10_5_Exercices_joint_tables.ipynb?flush_cache=true)
+
+* [10_5_Exercices_joint_tables_sol](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_10/10_5_Exercices_joint_tables_sol.ipynb?flush_cache=true)
+
+
+
 # Cours_9
 ## Notes du cours
 * Nous avons poursuivi la matière du [cours 8 (suite)](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_0_1_cours_suite_8.ipynb?flush_cache=true)
