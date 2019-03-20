@@ -9,6 +9,8 @@
 
 * [partie#3](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_3_cours.ipynb?flush_cache=true) Nous verrons qu'avec `proc sql` il sera beaucoup plus facile de faire de telles opérations 
 
+* [script_labo](https://github.com/nmeraihi/ACT3035/tree/master/HIV_2019/cours_9/9_5_script.sas) 
+
 
 ## Exercices
 * [Suite du 8](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_9/9_0_1_Exercices_du_8.ipynb?flush_cache=true)
