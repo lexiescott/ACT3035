@@ -1,23 +1,23 @@
 # Cours_11
 ## Notes du cours
 
-* [13_1_complément](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/13_1_cours.ipynb?flush_cache=true) Ceci est un petit complément de certaines requêtes dans les procédures SQL de SAS, nous les avons vues en classe dans le cadre de plusieurs exemples.
+* [11_1_complément](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_11/11_1_cours.ipynb?flush_cache=true) Ceci est un petit complément de certaines requêtes dans les procédures SQL de SAS, nous les avons vues en classe dans le cadre de plusieurs exemples.
 
-* [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/13_2_cours.ipynb?flush_cache=true)
+* [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_11/11_2_cours.ipynb?flush_cache=true)
 
 
-* [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/13_3_cours_dooLoop.ipynb?flush_cache=true)
+* [partie#2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_11/11_3_cours_dooLoop.ipynb?flush_cache=true)
 
-* [script_labo](https://github.com/nmeraihi/ACT3035/tree/master/HIV_2019/cours_13/13_6_script.sas) 
+* [script_labo](https://github.com/nmeraihi/ACT3035/tree/master/HIV_2019/cours_11/11_6_script.sas) 
 
 
 ## Exercices
 
 **NB**: Les exercices de la partie `proc sql` sont tous dans le contenu du [cours précédents](https://github.com/nmeraihi/ACT3035/tree/master/HIV_2019/cours_10).
 
-* [13_4_Exercices_loop](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/13_4_Exercices_loop.ipynb?flush_cache=true)
+* [13_4_Exercices_loop](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_11/11_4_Exercices_loop.ipynb?flush_cache=true)
 
-* [Solutions_do_loop](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/13_4_Exercices_loop_sol.ipynb?flush_cache=true)
+* [Solutions_do_loop](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_11/11_4_Exercices_loop_sol.ipynb?flush_cache=true)
 
 
 # Cours_10
