@@ -1,7 +1,7 @@
 # Cours_11
 ## Notes du cours
 
-* [13_1_complément](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/13_1_cours.ipynb?flush_cache=true) Ceci est un petit complément de certaines requettes dans les procédure SQL de SAS, nous les avons vu en classe dans le cadre plusieurs exemples.
+* [13_1_complément](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/13_1_cours.ipynb?flush_cache=true) Ceci est un petit complément de certaines requêtes dans les procédures SQL de SAS, nous les avons vues en classe dans le cadre de plusieurs exemples.
 
 * [partie#1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/13_2_cours.ipynb?flush_cache=true)
 
