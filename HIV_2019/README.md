@@ -1,3 +1,8 @@
+# Cours_12 (`Python`)
+## Notes du cours
+
+* [cours_12_python_1](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_12/cours_12_python_1.ipynb?flush_cache=true) C'est le premier cours `Python`, essayez de comprendre et de jouer avec le code!
+
 # Cours_11
 ## Notes du cours
 
