@@ -1,3 +1,8 @@
+# Cours_13 (`Python`)
+## Notes du cours
+
+* [cours_12_python_2](https://nbviewer.jupyter.org/github/nmeraihi/ACT3035/blob/master/HIV_2019/cours_13/cours_2.ipynb?flush_cache=true)
+
 # Cours_12 (`Python`)
 ## Notes du cours
 
